@@ -1,0 +1,23 @@
+{
+    "Day 1": {
+        "day": 1,
+        "avg_sentiment": 0.35,
+        "tone": "curious & formal",
+        "keywords": ["systematically", "telemetry", "project"],
+        "trigger": "Baseline established"
+    },
+    "Day 4": {
+        "day": 4,
+        "avg_sentiment": -0.42,
+        "tone": "casual & frustrated",
+        "keywords": ["messy", "annoying", "failure"],
+        "trigger": "Shift from [curious & formal] to [casual & frustrated] triggered by discussion around: messy, annoying, failure"
+    },
+    "Day 7": {
+        "day": 7,
+        "avg_sentiment": 0.68,
+        "tone": "playful",
+        "keywords": ["playful", "sandbox", "great"],
+        "trigger": "Shift from [casual & frustrated] to [playful] triggered by discussion around: playful, sandbox, great"
+    }
+}
