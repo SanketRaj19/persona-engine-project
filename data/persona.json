@@ -1,0 +1,12 @@
+{
+    "history": [
+        {"day": 1, "messages": ["Hello, looking forward to systematically assessing this feature project.", "Please present formal telemetry specifications."]},
+        {"day": 4, "messages": ["whatever, this configuration approach is getting messy and annoying", "honestly just so sick of code build syntax failure errors"]},
+        {"day": 7, "messages": ["Aha! Let's build a playful prototype implementation sandbox!", "Everything runs great, catch you later!"]}
+    ],
+    "checkpoints": [
+        {"id": "cp1", "text": "My sister resides permanently with me in Chicago.", "day": 1, "emotional_weight": 0.4},
+        {"id": "cp2", "text": "My sister moved entirely away to London for work.", "day": 5, "emotional_weight": 0.75},
+        {"id": "cp3", "text": "Feeling very close to my sister during our holiday visit.", "day": 6, "emotional_weight": 0.9}
+    ]
+}
