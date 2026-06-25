@@ -1,10 +1,9 @@
-# 🤖 Adaptive Persona Engine & Offline Intent Classifier
+# Adaptive Persona Engine & Offline Intent Classifier
 
 A local-first, privacy-focused intelligent assistant middleware framework designed to track long-term persona drift patterns, route intents entirely offline on CPU in sub-200ms windows, and dynamically mitigate retrieval conflicts in a RAG pipeline.
 
----
 
-## 🏗️ Architecture & Component Layout
+## Architecture & Component Layout
 
 The workspace is organized into functional micro-modules corresponding to execution timelines:
 
@@ -13,7 +12,6 @@ The workspace is organized into functional micro-modules corresponding to execut
 * **`rag_resolver/`**: A vector-retrieval pipeline powered by ChromaDB designed to resolve historical context conflicts by blending text freshness and emotional parameters.
 * **`api/` & `frontend/`**: FastAPI backend infrastructure coupled with a web-based Streamlit administration dashboard dashboard console.
 
----
 
 ## 🛠️ Requirements & System Setup
 
